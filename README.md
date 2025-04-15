@@ -1,6 +1,8 @@
-# Hi!! I'm Vladii.
+# ✨ About me
+    - Learning about offensive security
+    - Currently grinding cybersecurity for IDF
 
-<h3 align="left">Currently learning:</h3>
+#📓 Currently learning:
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -16,10 +18,6 @@
     </a>
 </p>
 
-<a href="http://www.github.com/Vladiik124">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vladiik124&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/Vladiik124" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladiik124&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+# 📊 Stats:
+![vladiik124's Stats](https://github-readme-stats.vercel.app/api?username=vladiik124&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![vladiik124's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladiik124&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
