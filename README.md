@@ -1,6 +1,7 @@
 # ✨ About me
     - Learning about offensive security
-    - Currently grinding cybersecurity for IDF
+    - Currently grinding projects and certs for IDF
+    - In high school
 
 #📓 Currently learning:
 <p align="left"> 
