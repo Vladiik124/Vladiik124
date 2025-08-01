@@ -21,6 +21,3 @@
     </a>
 </p>
 
-# 📊 Stats:
-![vladiik124's Stats](https://github-readme-stats.vercel.app/api?username=vladiik124&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![vladiik124's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladiik124&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
