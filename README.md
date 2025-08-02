@@ -1,7 +1,3 @@
-# ✨ About me
-    - Learning about offensive security
-    - In high school
-
 #📓 Currently learning:
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
